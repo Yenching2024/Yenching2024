@@ -1,6 +1,5 @@
 ### Hi there 
 
-Commodity_Analysis
 This is a space for my various projects analyzing all things commodities.
 
 The projects will be mostly market/price analysis, but also might include some international trade or hard commodity production (especailly metals/minerals).
